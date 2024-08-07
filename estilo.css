@@ -1,5 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap');
 body{
-   backgroud-color : pink
-   font-family"Sankofa Display"
+   backgroud-color : pink;
+   font-family=Sankofa Display;
    text-align:center;
+   font-size: 200% 
+   }
+header{
+       color: white;
+       text-shadow: 5px 5px 3px yellow; 
+   }   
+section{ 
+       background-color: white;
+       width: 300px; 
+       margin:auto;
+       border-radius: 30px
+       box-shadow: 5px 5px 5px yellow
+}
+forter{
+       color: white 
+       text-shadow: 5px 5px 3px yellow; 
+}
