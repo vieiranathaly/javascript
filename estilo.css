@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap');
 body{
-   backgroud-color : pink;
-   font-family=Sankofa Display;
+   background-color : pink;
+   font-family:Sankofa Display;
    text-align:center;
-   font-size: 200% 
+   font-size: 200% ;
    }
 header{
        color: white;
@@ -13,9 +13,12 @@ section{
        background-color: white;
        width: 300px; 
        margin:auto;
-       border-radius: 30px
-       box-shadow: 5px 5px 5px yellow
+       border-radius: 30px;
+       box-shadow: 5px 5px 5px yellow;
 }
+   img{
+      border-radius:50%;
+      width:200px;
 forter{
        color: white 
        text-shadow: 5px 5px 3px yellow; 
